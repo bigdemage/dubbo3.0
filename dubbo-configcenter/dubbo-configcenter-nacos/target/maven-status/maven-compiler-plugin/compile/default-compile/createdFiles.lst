@@ -1,0 +1,4 @@
+org\apache\dubbo\configcenter\support\nacos\NacosConfigServiceWrapper.class
+org\apache\dubbo\configcenter\support\nacos\NacosDynamicConfiguration.class
+org\apache\dubbo\configcenter\support\nacos\NacosDynamicConfigurationFactory.class
+org\apache\dubbo\configcenter\support\nacos\NacosDynamicConfiguration$NacosConfigListener.class

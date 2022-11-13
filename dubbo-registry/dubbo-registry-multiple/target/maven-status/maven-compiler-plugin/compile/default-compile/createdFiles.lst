@@ -1,0 +1,8 @@
+org\apache\dubbo\registry\multiple\MultipleRegistry$SingleNotifyListener.class
+org\apache\dubbo\registry\multiple\MultipleRegistry.class
+org\apache\dubbo\registry\multiple\MultipleRegistry$MultipleNotifyListenerWrapper.class
+org\apache\dubbo\registry\multiple\MultipleServiceDiscoveryFactory.class
+org\apache\dubbo\registry\multiple\MultipleServiceDiscovery.class
+org\apache\dubbo\registry\multiple\MultipleServiceDiscovery$MultiServiceInstancesChangedListener.class
+org\apache\dubbo\registry\multiple\MultipleRegistryFactory.class
+org\apache\dubbo\registry\multiple\MultipleServiceDiscovery$SingleServiceInstancesChangedListener.class

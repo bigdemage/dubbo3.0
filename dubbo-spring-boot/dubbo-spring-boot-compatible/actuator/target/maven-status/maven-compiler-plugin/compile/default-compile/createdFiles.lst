@@ -1,0 +1,17 @@
+org\apache\dubbo\spring\boot\actuate\endpoint\DubboEndpoint.class
+org\apache\dubbo\spring\boot\actuate\endpoint\mvc\DubboMvcEndpoint.class
+org\apache\dubbo\spring\boot\actuate\health\DubboHealthIndicatorProperties.class
+org\apache\dubbo\spring\boot\actuate\endpoint\metadata\DubboPropertiesMetadata.class
+org\apache\dubbo\spring\boot\actuate\autoconfigure\DubboMvcEndpointManagementContextConfiguration.class
+org\apache\dubbo\spring\boot\actuate\autoconfigure\DubboEndpointMetadataAutoConfiguration.class
+org\apache\dubbo\spring\boot\actuate\endpoint\metadata\DubboConfigsMetadata.class
+org\apache\dubbo\spring\boot\actuate\endpoint\metadata\DubboReferencesMetadata.class
+META-INF\spring-configuration-metadata.json
+org\apache\dubbo\spring\boot\actuate\autoconfigure\DubboHealthIndicatorAutoConfiguration.class
+org\apache\dubbo\spring\boot\actuate\autoconfigure\DubboEndpointAutoConfiguration.class
+org\apache\dubbo\spring\boot\actuate\endpoint\metadata\AbstractDubboMetadata.class
+org\apache\dubbo\spring\boot\actuate\endpoint\metadata\DubboMetadata.class
+org\apache\dubbo\spring\boot\actuate\health\DubboHealthIndicatorProperties$Status.class
+org\apache\dubbo\spring\boot\actuate\endpoint\metadata\DubboShutdownMetadata.class
+org\apache\dubbo\spring\boot\actuate\endpoint\metadata\DubboServicesMetadata.class
+org\apache\dubbo\spring\boot\actuate\health\DubboHealthIndicator.class

@@ -1,0 +1,3 @@
+org\apache\dubbo\configcenter\support\zookeeper\ZookeeperDynamicConfigurationFactory.class
+org\apache\dubbo\configcenter\support\zookeeper\ZookeeperDynamicConfiguration.class
+org\apache\dubbo\configcenter\support\zookeeper\CacheListener.class

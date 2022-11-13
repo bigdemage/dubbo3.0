@@ -1,0 +1,15 @@
+F:\gitProject\dubbo\dubbo-spring-boot\dubbo-spring-boot-compatible\actuator\src\main\java\org\apache\dubbo\spring\boot\actuate\endpoint\metadata\DubboReferencesMetadata.java
+F:\gitProject\dubbo\dubbo-spring-boot\dubbo-spring-boot-compatible\actuator\src\main\java\org\apache\dubbo\spring\boot\actuate\endpoint\mvc\DubboMvcEndpoint.java
+F:\gitProject\dubbo\dubbo-spring-boot\dubbo-spring-boot-compatible\actuator\src\main\java\org\apache\dubbo\spring\boot\actuate\endpoint\metadata\AbstractDubboMetadata.java
+F:\gitProject\dubbo\dubbo-spring-boot\dubbo-spring-boot-compatible\actuator\src\main\java\org\apache\dubbo\spring\boot\actuate\endpoint\metadata\DubboShutdownMetadata.java
+F:\gitProject\dubbo\dubbo-spring-boot\dubbo-spring-boot-compatible\actuator\src\main\java\org\apache\dubbo\spring\boot\actuate\health\DubboHealthIndicatorProperties.java
+F:\gitProject\dubbo\dubbo-spring-boot\dubbo-spring-boot-compatible\actuator\src\main\java\org\apache\dubbo\spring\boot\actuate\endpoint\DubboEndpoint.java
+F:\gitProject\dubbo\dubbo-spring-boot\dubbo-spring-boot-compatible\actuator\src\main\java\org\apache\dubbo\spring\boot\actuate\endpoint\metadata\DubboMetadata.java
+F:\gitProject\dubbo\dubbo-spring-boot\dubbo-spring-boot-compatible\actuator\src\main\java\org\apache\dubbo\spring\boot\actuate\endpoint\metadata\DubboPropertiesMetadata.java
+F:\gitProject\dubbo\dubbo-spring-boot\dubbo-spring-boot-compatible\actuator\src\main\java\org\apache\dubbo\spring\boot\actuate\endpoint\metadata\DubboServicesMetadata.java
+F:\gitProject\dubbo\dubbo-spring-boot\dubbo-spring-boot-compatible\actuator\src\main\java\org\apache\dubbo\spring\boot\actuate\autoconfigure\DubboEndpointMetadataAutoConfiguration.java
+F:\gitProject\dubbo\dubbo-spring-boot\dubbo-spring-boot-compatible\actuator\src\main\java\org\apache\dubbo\spring\boot\actuate\endpoint\metadata\DubboConfigsMetadata.java
+F:\gitProject\dubbo\dubbo-spring-boot\dubbo-spring-boot-compatible\actuator\src\main\java\org\apache\dubbo\spring\boot\actuate\autoconfigure\DubboMvcEndpointManagementContextConfiguration.java
+F:\gitProject\dubbo\dubbo-spring-boot\dubbo-spring-boot-compatible\actuator\src\main\java\org\apache\dubbo\spring\boot\actuate\autoconfigure\DubboEndpointAutoConfiguration.java
+F:\gitProject\dubbo\dubbo-spring-boot\dubbo-spring-boot-compatible\actuator\src\main\java\org\apache\dubbo\spring\boot\actuate\autoconfigure\DubboHealthIndicatorAutoConfiguration.java
+F:\gitProject\dubbo\dubbo-spring-boot\dubbo-spring-boot-compatible\actuator\src\main\java\org\apache\dubbo\spring\boot\actuate\health\DubboHealthIndicator.java

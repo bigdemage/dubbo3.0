@@ -1,0 +1,10 @@
+org\apache\dubbo\monitor\support\MonitorServiceDetector.class
+org\apache\dubbo\monitor\MonitorFactory.class
+org\apache\dubbo\monitor\Monitor.class
+org\apache\dubbo\monitor\Constants.class
+org\apache\dubbo\monitor\MonitorService.class
+org\apache\dubbo\monitor\MetricsService.class
+org\apache\dubbo\monitor\support\MetricsServiceDetector.class
+org\apache\dubbo\monitor\support\AbstractMonitorFactory.class
+org\apache\dubbo\monitor\support\MonitorFilter.class
+org\apache\dubbo\monitor\support\MonitorClusterFilter.class

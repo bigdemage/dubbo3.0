@@ -1,0 +1,3 @@
+org\apache\dubbo\configcenter\support\apollo\ApolloDynamicConfiguration$ApolloListener.class
+org\apache\dubbo\configcenter\support\apollo\ApolloDynamicConfiguration.class
+org\apache\dubbo\configcenter\support\apollo\ApolloDynamicConfigurationFactory.class

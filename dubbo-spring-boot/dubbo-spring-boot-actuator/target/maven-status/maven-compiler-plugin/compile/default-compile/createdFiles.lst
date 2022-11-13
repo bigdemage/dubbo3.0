@@ -1,0 +1,9 @@
+org\apache\dubbo\spring\boot\actuate\endpoint\DubboReferencesMetadataEndpoint.class
+org\apache\dubbo\spring\boot\actuate\autoconfigure\DubboEndpointAnnotationAutoConfiguration.class
+org\apache\dubbo\spring\boot\actuate\endpoint\DubboShutdownEndpoint.class
+org\apache\dubbo\spring\boot\actuate\endpoint\condition\CompatibleOnEnabledEndpointCondition.class
+org\apache\dubbo\spring\boot\actuate\endpoint\DubboPropertiesMetadataEndpoint.class
+org\apache\dubbo\spring\boot\actuate\endpoint\condition\CompatibleConditionalOnEnabledEndpoint.class
+org\apache\dubbo\spring\boot\actuate\endpoint\DubboServicesMetadataEndpoint.class
+org\apache\dubbo\spring\boot\actuate\endpoint\DubboMetadataEndpoint.class
+org\apache\dubbo\spring\boot\actuate\endpoint\DubboConfigsMetadataEndpoint.class

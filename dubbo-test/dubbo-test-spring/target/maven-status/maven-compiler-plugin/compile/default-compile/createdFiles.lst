@@ -1,0 +1,10 @@
+org\apache\dubbo\test\spring\SpringJavaConfigBeanTest$ProviderConfiguration.class
+org\apache\dubbo\test\spring\SpringAnnotationBeanTest$TestConfiguration.class
+org\apache\dubbo\test\spring\SpringAnnotationBeanTest$TestService.class
+org\apache\dubbo\test\spring\SpringJavaConfigBeanTest$ConsumerConfiguration.class
+org\apache\dubbo\test\spring\context\MockSpringInitCustomizer.class
+org\apache\dubbo\test\spring\SpringJavaConfigBeanTest.class
+org\apache\dubbo\test\spring\context\MockSpringInitCustomizer$CustomBeanFactoryPostProcessor.class
+org\apache\dubbo\test\spring\SpringXmlConfigTest.class
+org\apache\dubbo\test\spring\SpringAnnotationBeanTest.class
+org\apache\dubbo\test\spring\SpringJavaConfigBeanTest$TestConfiguration.class

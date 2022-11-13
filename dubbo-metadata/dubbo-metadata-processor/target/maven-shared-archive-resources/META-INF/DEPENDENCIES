@@ -1,0 +1,21 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+dubbo-metadata-processor
+
+
+From: 'an unknown organization'
+  - Gson (https://github.com/google/gson/gson) com.google.code.gson:gson:jar:2.8.5
+    License: Apache 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - dubbo-common (https://github.com/apache/dubbo/dubbo-common) org.apache.dubbo:dubbo-common:jar:3.0.6-SNAPSHOT
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - dubbo-metadata-api (https://github.com/apache/dubbo/dubbo-metadata/dubbo-metadata-api) org.apache.dubbo:dubbo-metadata-api:jar:3.0.6-SNAPSHOT
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+
+
+
+

@@ -1,0 +1,11 @@
+org\apache\dubbo\auth\filter\ConsumerSignFilter.class
+org\apache\dubbo\auth\Constants.class
+org\apache\dubbo\auth\model\AccessKeyPair.class
+org\apache\dubbo\auth\spi\Authenticator.class
+org\apache\dubbo\auth\DefaultAccessKeyStorage.class
+org\apache\dubbo\auth\utils\SignatureUtils.class
+org\apache\dubbo\auth\filter\ProviderAuthFilter.class
+org\apache\dubbo\auth\exception\RpcAuthenticationException.class
+org\apache\dubbo\auth\AccessKeyAuthenticator.class
+org\apache\dubbo\auth\exception\AccessKeyNotFoundException.class
+org\apache\dubbo\auth\spi\AccessKeyStorage.class

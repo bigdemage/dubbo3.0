@@ -1,0 +1,11 @@
+F:\gitProject\dubbo\dubbo-plugin\dubbo-auth\src\main\java\org\apache\dubbo\auth\DefaultAccessKeyStorage.java
+F:\gitProject\dubbo\dubbo-plugin\dubbo-auth\src\main\java\org\apache\dubbo\auth\model\AccessKeyPair.java
+F:\gitProject\dubbo\dubbo-plugin\dubbo-auth\src\main\java\org\apache\dubbo\auth\spi\Authenticator.java
+F:\gitProject\dubbo\dubbo-plugin\dubbo-auth\src\main\java\org\apache\dubbo\auth\AccessKeyAuthenticator.java
+F:\gitProject\dubbo\dubbo-plugin\dubbo-auth\src\main\java\org\apache\dubbo\auth\filter\ProviderAuthFilter.java
+F:\gitProject\dubbo\dubbo-plugin\dubbo-auth\src\main\java\org\apache\dubbo\auth\spi\AccessKeyStorage.java
+F:\gitProject\dubbo\dubbo-plugin\dubbo-auth\src\main\java\org\apache\dubbo\auth\filter\ConsumerSignFilter.java
+F:\gitProject\dubbo\dubbo-plugin\dubbo-auth\src\main\java\org\apache\dubbo\auth\exception\RpcAuthenticationException.java
+F:\gitProject\dubbo\dubbo-plugin\dubbo-auth\src\main\java\org\apache\dubbo\auth\exception\AccessKeyNotFoundException.java
+F:\gitProject\dubbo\dubbo-plugin\dubbo-auth\src\main\java\org\apache\dubbo\auth\Constants.java
+F:\gitProject\dubbo\dubbo-plugin\dubbo-auth\src\main\java\org\apache\dubbo\auth\utils\SignatureUtils.java

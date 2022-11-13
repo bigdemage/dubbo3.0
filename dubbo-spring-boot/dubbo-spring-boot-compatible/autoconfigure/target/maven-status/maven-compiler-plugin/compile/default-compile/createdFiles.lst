@@ -1,0 +1,15 @@
+org\apache\dubbo\spring\boot\autoconfigure\DubboListenerAutoConfiguration.class
+org\apache\dubbo\spring\boot\beans\factory\config\ServiceBeanIdConflictProcessor.class
+org\apache\dubbo\spring\boot\context\event\WelcomeLogoApplicationListener.class
+org\apache\dubbo\spring\boot\autoconfigure\DubboAutoConfiguration.class
+META-INF\spring-configuration-metadata.json
+org\apache\dubbo\spring\boot\autoconfigure\DubboConfigurationProperties.class
+org\apache\dubbo\spring\boot\util\DubboUtils.class
+org\apache\dubbo\spring\boot\autoconfigure\DubboConfigurationProperties$Scan.class
+org\apache\dubbo\spring\boot\autoconfigure\DubboRelaxedBindingAutoConfiguration.class
+org\apache\dubbo\spring\boot\autoconfigure\RelaxedDubboConfigBinder.class
+org\apache\dubbo\spring\boot\context\event\DubboConfigBeanDefinitionConflictApplicationListener.class
+org\apache\dubbo\spring\boot\autoconfigure\DubboConfigurationProperties$Config.class
+org\apache\dubbo\spring\boot\context\DubboApplicationContextInitializer.class
+org\apache\dubbo\spring\boot\env\DubboDefaultPropertiesEnvironmentPostProcessor.class
+org\apache\dubbo\spring\boot\context\event\AwaitingNonWebApplicationListener.class

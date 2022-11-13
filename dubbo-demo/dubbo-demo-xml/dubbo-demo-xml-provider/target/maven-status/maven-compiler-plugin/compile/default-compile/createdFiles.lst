@@ -1,0 +1,5 @@
+org\apache\dubbo\demo\provider\Application.class
+org\apache\dubbo\demo\provider\DemoServiceImpl.class
+org\apache\dubbo\demo\provider\TripleServiceImpl.class
+org\apache\dubbo\demo\provider\RestDemoServiceImpl.class
+org\apache\dubbo\demo\provider\GreetingServiceImpl.class

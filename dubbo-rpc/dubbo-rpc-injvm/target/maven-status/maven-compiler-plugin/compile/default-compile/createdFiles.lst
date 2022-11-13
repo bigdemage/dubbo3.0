@@ -1,0 +1,5 @@
+org\apache\dubbo\rpc\protocol\injvm\InjvmExporter.class
+org\apache\dubbo\rpc\protocol\injvm\InjvmProtocol.class
+org\apache\dubbo\rpc\protocol\injvm\InjvmInvoker.class
+org\apache\dubbo\rpc\protocol\injvm\DefaultParamDeepCopyUtil.class
+org\apache\dubbo\rpc\protocol\injvm\ParamDeepCopyUtil.class

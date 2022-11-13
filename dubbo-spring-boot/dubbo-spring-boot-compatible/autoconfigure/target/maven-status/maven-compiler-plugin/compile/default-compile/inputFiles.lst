@@ -1,0 +1,12 @@
+F:\gitProject\dubbo\dubbo-spring-boot\dubbo-spring-boot-compatible\autoconfigure\src\main\java\org\apache\dubbo\spring\boot\context\DubboApplicationContextInitializer.java
+F:\gitProject\dubbo\dubbo-spring-boot\dubbo-spring-boot-compatible\autoconfigure\src\main\java\org\apache\dubbo\spring\boot\beans\factory\config\ServiceBeanIdConflictProcessor.java
+F:\gitProject\dubbo\dubbo-spring-boot\dubbo-spring-boot-compatible\autoconfigure\src\main\java\org\apache\dubbo\spring\boot\context\event\DubboConfigBeanDefinitionConflictApplicationListener.java
+F:\gitProject\dubbo\dubbo-spring-boot\dubbo-spring-boot-compatible\autoconfigure\src\main\java\org\apache\dubbo\spring\boot\env\DubboDefaultPropertiesEnvironmentPostProcessor.java
+F:\gitProject\dubbo\dubbo-spring-boot\dubbo-spring-boot-compatible\autoconfigure\src\main\java\org\apache\dubbo\spring\boot\autoconfigure\DubboAutoConfiguration.java
+F:\gitProject\dubbo\dubbo-spring-boot\dubbo-spring-boot-compatible\autoconfigure\src\main\java\org\apache\dubbo\spring\boot\autoconfigure\DubboListenerAutoConfiguration.java
+F:\gitProject\dubbo\dubbo-spring-boot\dubbo-spring-boot-compatible\autoconfigure\src\main\java\org\apache\dubbo\spring\boot\autoconfigure\RelaxedDubboConfigBinder.java
+F:\gitProject\dubbo\dubbo-spring-boot\dubbo-spring-boot-compatible\autoconfigure\src\main\java\org\apache\dubbo\spring\boot\autoconfigure\DubboConfigurationProperties.java
+F:\gitProject\dubbo\dubbo-spring-boot\dubbo-spring-boot-compatible\autoconfigure\src\main\java\org\apache\dubbo\spring\boot\context\event\WelcomeLogoApplicationListener.java
+F:\gitProject\dubbo\dubbo-spring-boot\dubbo-spring-boot-compatible\autoconfigure\src\main\java\org\apache\dubbo\spring\boot\autoconfigure\DubboRelaxedBindingAutoConfiguration.java
+F:\gitProject\dubbo\dubbo-spring-boot\dubbo-spring-boot-compatible\autoconfigure\src\main\java\org\apache\dubbo\spring\boot\context\event\AwaitingNonWebApplicationListener.java
+F:\gitProject\dubbo\dubbo-spring-boot\dubbo-spring-boot-compatible\autoconfigure\src\main\java\org\apache\dubbo\spring\boot\util\DubboUtils.java

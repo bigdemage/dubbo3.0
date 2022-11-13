@@ -1,0 +1,8 @@
+org\apache\dubbo\test\common\api\RestDemoService.class
+org\apache\dubbo\test\common\api\DemoService.class
+org\apache\dubbo\test\common\impl\GreetingServiceImpl.class
+org\apache\dubbo\test\common\SysProps.class
+org\apache\dubbo\test\common\api\GreetingService.class
+org\apache\dubbo\test\common\ErrorHandler.class
+org\apache\dubbo\test\common\impl\RestDemoServiceImpl.class
+org\apache\dubbo\test\common\impl\DemoServiceImpl.class

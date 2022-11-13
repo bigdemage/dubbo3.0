@@ -1,0 +1,8 @@
+org\apache\dubbo\common\serialize\hessian2\dubbo\WhitelistHessian2FactoryInitializer.class
+org\apache\dubbo\common\serialize\hessian2\dubbo\Hessian2FactoryInitializer.class
+org\apache\dubbo\common\serialize\hessian2\Hessian2SerializerFactory.class
+org\apache\dubbo\common\serialize\hessian2\Hessian2ObjectOutput.class
+org\apache\dubbo\common\serialize\hessian2\Hessian2Serialization.class
+org\apache\dubbo\common\serialize\hessian2\dubbo\AbstractHessian2FactoryInitializer.class
+org\apache\dubbo\common\serialize\hessian2\dubbo\DefaultHessian2FactoryInitializer.class
+org\apache\dubbo\common\serialize\hessian2\Hessian2ObjectInput.class

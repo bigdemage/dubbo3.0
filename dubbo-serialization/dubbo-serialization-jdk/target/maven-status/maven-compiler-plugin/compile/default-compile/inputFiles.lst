@@ -1,0 +1,9 @@
+F:\gitProject\dubbo\dubbo-serialization\dubbo-serialization-jdk\src\main\java\org\apache\dubbo\common\serialize\nativejava\NativeJavaObjectInput.java
+F:\gitProject\dubbo\dubbo-serialization\dubbo-serialization-jdk\src\main\java\org\apache\dubbo\common\serialize\nativejava\NativeJavaSerialization.java
+F:\gitProject\dubbo\dubbo-serialization\dubbo-serialization-jdk\src\main\java\org\apache\dubbo\common\serialize\nativejava\NativeJavaObjectOutput.java
+F:\gitProject\dubbo\dubbo-serialization\dubbo-serialization-jdk\src\main\java\org\apache\dubbo\common\serialize\java\JavaSerialization.java
+F:\gitProject\dubbo\dubbo-serialization\dubbo-serialization-jdk\src\main\java\org\apache\dubbo\common\serialize\java\CompactedObjectOutputStream.java
+F:\gitProject\dubbo\dubbo-serialization\dubbo-serialization-jdk\src\main\java\org\apache\dubbo\common\serialize\java\JavaObjectInput.java
+F:\gitProject\dubbo\dubbo-serialization\dubbo-serialization-jdk\src\main\java\org\apache\dubbo\common\serialize\java\CompactedJavaSerialization.java
+F:\gitProject\dubbo\dubbo-serialization\dubbo-serialization-jdk\src\main\java\org\apache\dubbo\common\serialize\java\JavaObjectOutput.java
+F:\gitProject\dubbo\dubbo-serialization\dubbo-serialization-jdk\src\main\java\org\apache\dubbo\common\serialize\java\CompactedObjectInputStream.java

@@ -1,0 +1,9 @@
+org\apache\dubbo\common\serialize\java\JavaSerialization.class
+org\apache\dubbo\common\serialize\java\CompactedObjectInputStream.class
+org\apache\dubbo\common\serialize\java\CompactedObjectOutputStream.class
+org\apache\dubbo\common\serialize\nativejava\NativeJavaObjectInput.class
+org\apache\dubbo\common\serialize\nativejava\NativeJavaObjectOutput.class
+org\apache\dubbo\common\serialize\java\JavaObjectOutput.class
+org\apache\dubbo\common\serialize\nativejava\NativeJavaSerialization.class
+org\apache\dubbo\common\serialize\java\JavaObjectInput.class
+org\apache\dubbo\common\serialize\java\CompactedJavaSerialization.class

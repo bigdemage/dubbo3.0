@@ -1,0 +1,5 @@
+org\apache\dubbo\metadata\store\nacos\NacosMetadataReport$NacosConfigListener.class
+org\apache\dubbo\metadata\store\nacos\NacosConfigServiceWrapper.class
+org\apache\dubbo\metadata\store\nacos\NacosMetadataReport.class
+org\apache\dubbo\metadata\store\nacos\NacosMetadataReport$MappingDataListener.class
+org\apache\dubbo\metadata\store\nacos\NacosMetadataReportFactory.class
