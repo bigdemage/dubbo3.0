@@ -1,0 +1,2 @@
+mocktransporter=org.apache.dubbo.config.mock.MockTransporter
+
